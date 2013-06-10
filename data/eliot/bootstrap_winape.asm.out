@@ -1,0 +1,36 @@
+WinCPC - Amstrad CPC Emulator, Zilog Z80 Assembler v0.9.25
+
+
+Assemble bootstrap_winape.asm
+
+000001 8000  (8000)        START                equ     &8000
+000003 8000  (8000)                             org     START
+000006 8000                RUN                  write   DIRECT "a:4k2.bnd"
+000008 8000  F3                                 di      
+000009 8001  21 FB C9                           ld      HL, &C9FB
+000010 8004  22 38 00                           ld      (&38), HL
+000014 8007  21 00 00                           ld      HL, COMPRESSED
+000015 800A  11 00 01                           ld      DE, &100
+000016 800D  CD 00 00                           call    DEEXO
+000017 8010  C3 00 01                           jp      &100
+000019 8013                                     read    "deexo.asm"
+
+Assemble deexo.asm
+
+000021 8013  00                                 db      0
+000022 8014                COMPRESSED           
+000024 8014                INCBIN              
+       8014                UNCOMPRESSED_TEXT    
+
+FAIT 1
+
+4 erreurs
+0 dangers
+
+
+ERREURS
+
+ligne 4 à bootstrap_winape.asm: (11) symbole déjà défini
+ligne 6 à bootstrap_winape.asm: (5) erreur mismatch
+ligne 19 à bootstrap_winape.asm: (21) Fichie non trouvé
+ligne 23 à bootstrap_winape.asm: (3) erreur de syntaxe

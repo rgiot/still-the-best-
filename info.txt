@@ -1,0 +1,56 @@
+                _________ __  .__.__  .__      __  .__            
+               /   _____//  |_|__|  | |  |   _/  |_|  |__   ____  
+               \_____  \\   __\  |  | |  |   \   __\  |  \_/ __ \ 
+               /        \|  | |  |  |_|  |__  |  | |   Y  \  ___/ 
+              /_______  /|__| |__|____/____/  |__| |___|  /\___  >
+                      \/                                \/     \/ 
+                  __________                 __           ._. 
+                  \______   \ ____   _______/  |_  ______ | |
+                   |    |  _// __ \ /  ___/\   __\/  ___/ | |
+                   |    |   \  ___/ \___ \  |  |  \___ \   \|
+                   |______  /\___  >____  > |__| /____  >  __
+                          \/     \/     \/            \/   \/
+
+                                     by
+
+               .--.                  .         .                
+               |   )                 |   o    _|_   o           
+               |--:  .-. .--. .-. .-.|   .  .-.|    .  .-. .--. 
+               |   )(.-' |  |(.-'(   |   | (   |    | (   )|  | 
+               '--'  `--''  `-`--'`-'`--' `-`-'`-'-' `-`-' '  `-
+
+Code ........... Krusty/Benediction
+Music .......... Ego Trip
+Colors ......... Voxfreax/Benediction
+                                       Released for the 4K compo of RST0
+                                                            25 june 2011
+
+
+
+Shap
+----
+Hey man, why talking so much on the internet ?
+If you code as fast as you claim (cf. cpcrulez post), I expect a
+response (not hard to do better ;) )to this 4K in far less than two weeks!
+
+
+Rhino
+-----
+                   HEY! RHINO!
+                PROBLEMS FOR DOING
+                 ROTOZOOM ON ALL
+                  SCREEN WIDTH?
+                
+                  WATCH AND LEARN
+                  BEFORE TALKING
+                     SO MUCH
+
+
+Grim and Hicks
+--------------
+As your are my two actual references, and I want to walk on your steps,
+this demo does not work on all CRTCs.
+
+         To everyone ---\___/---> Enjoy this proof of concept!'
+
+
